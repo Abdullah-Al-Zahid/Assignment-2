@@ -267,6 +267,36 @@ body{
     margin-left: 2rem;
  }
 
+ /* challange part extra section  */
+.pull-sec{
+    max-width: 1040px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+ .pull-up-sec{
+    max-width: 1060px;
+    margin: auto;
+    margin-top: 4rem;
+    background: rgb(34, 33, 33);
+    border-radius: 1rem;
+    padding: 2rem 2.5rem;
+    text-align: center;
+ }
+
+ .pull-up-img{
+    max-width: 80%;
+    max-height: 450px;
+    text-align: center;
+ }
+ 
+ .pullup-more{
+    background-color: rgb(68, 207, 173);
+    padding: 1.5rem 1.5rem;
+    border: none;
+    border-radius: 2.5rem;
+ }
  /* media required */
  @media  screen and (max-width:576px){
     .banner{
