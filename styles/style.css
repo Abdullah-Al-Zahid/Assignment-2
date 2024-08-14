@@ -1,8 +1,9 @@
-.mrs-saint-delafield-regular {
-    font-family: "Mrs Saint Delafield", cursive;
+.great-vibes-regular {
+    font-family: "Great Vibes", cursive;
     font-weight: 400;
     font-style: normal;
   }
+  
   
 
 body{
@@ -462,6 +463,12 @@ body{
         margin: auto;
         padding: 1.5rem;
         border-radius: 1rem;
+
+    }
+ }
+ @media  screen and (min-width:576px) {
+    .menu-none{
+        display: none;
     }
  }
  
